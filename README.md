@@ -1,1 +1,1 @@
-# Selenium Training akkaka
+# Selenium Training
